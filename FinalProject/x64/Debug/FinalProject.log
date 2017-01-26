@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FinalProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  Utility.cpp
+  Tile.cpp
+  Tax.cpp
+  Special.cpp
+  Railroad.cpp
+  Property.cpp
+  Player.cpp
+  Main.cpp
+  JailCard.cpp
+  ComChest.cpp
+  Chance.cpp
+  FinalProject.vcxproj -> C:\Users\Daniel\Documents\Visual Studio 2015\Projects\FinalProject\New folder\x64\Debug\Monopoly.exe
+  FinalProject.vcxproj -> C:\Users\Daniel\Documents\Visual Studio 2015\Projects\FinalProject\New folder\x64\Debug\Monopoly.pdb (Partial PDB)

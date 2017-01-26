@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(114): warning C4101: 'newPos': unreferenced local variable
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(320): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(334): warning C4018: '>': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(351): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(428): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\documents\visual studio 2015\projects\finalproject\finalproject\main.cpp(453): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> C:\Users\Daniel\Documents\Visual Studio 2015\Projects\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> C:\Users\Daniel\Documents\Visual Studio 2015\Projects\FinalProject\Debug\FinalProject.pdb (Partial PDB)
